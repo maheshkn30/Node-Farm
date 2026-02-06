@@ -1,19 +1,19 @@
-# Node Farm
+# 🌱 Node Farm
 
-A simple Node.js HTTP server application that displays a dynamic farm product catalog.
+Node Farm is a simple Node.js project that creates an HTTP server to display a dynamic farm product catalog. It focuses on core Node.js concepts like routing, file handling, and server-side rendering without using any external frameworks.
 
-## Features
+## 🚀 Features
 
-- Product overview page with all items
-- Individual product detail pages
-- Dynamic HTML templating
-- JSON-based product data
-- Responsive design
+📦 Product overview page displaying all farm items
+🔍 Individual product detail pages
+🧩 Dynamic HTML templating
+🗂 JSON-based data storage
+⚡ Lightweight and fast (no Express)
 
-## Tech Stack
+## 🛠 Tech Stack
 
 - Node.js
-- JavaScript
+- JavaScript (ES6+)
 - HTML/CSS
 
 ## Installation
@@ -37,10 +37,4 @@ Visit `http://localhost:8000` in your browser.
 
 ## Project Structure
 
-```
-├── index.js              # Main server
-├── package.json          # Dependencies
-├── dev-data/data.json    # Product data
-├── modules/              # Utility modules
-└── templates/            # HTML templates
-```
+http://localhost:8000
