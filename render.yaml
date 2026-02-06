@@ -1,0 +1,16 @@
+# Exported from Render on 2026-02-06T08:42:53Z
+version: "1"
+projects:
+- name: My project
+  environments:
+  - name: Production
+    services:
+    - type: web
+      name: api-node-farm
+      runtime: node
+      repo: https://github.com/maheshkn30/Node-Farm
+      plan: free
+      region: singapore
+      buildCommand: npm install
+      startCommand: npm start
+      autoDeployTrigger: commit
