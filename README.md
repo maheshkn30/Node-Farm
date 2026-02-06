@@ -8,11 +8,11 @@ http://localhost:8000
 
 ## 🚀 Features
 
-📦 Product overview page displaying all farm items
-🔍 Individual product detail pages
-🧩 Dynamic HTML templating
-🗂 JSON-based data storage
-⚡ Lightweight and fast (no Express)
+- 📦 Product overview page displaying all farm items
+- 🔍 Individual product detail pages
+- 🧩 Dynamic HTML templating
+- 🗂 JSON-based data storage
+- ⚡ Lightweight and fast (no Express)
 
 ## 🛠 Tech Stack
 
