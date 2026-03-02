@@ -1,6 +1,6 @@
 # Node Farm 🌱
 
-Node Farm is a simple Node.js project that creates an HTTP server to display a dynamic farm product catalog. It focuses on core Node.js concepts like routing, file handling, and server-side rendering without using any external frameworks.
+Node Farm is a simple Node.js project that creates an HTTP server to display a dynamic farm product catalog. It focuses on core Node.js concepts like routing, file handling, and server-side rendering without using any external frameworks.Deployed using Render Service
 
 ## Demo Link
 
@@ -38,5 +38,3 @@ Visit `http://localhost:8000` in your browser.
 
 - `/` - View all products
 - `/product/:id` - View product details
-
-
